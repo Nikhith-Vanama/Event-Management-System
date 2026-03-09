@@ -2,7 +2,7 @@
 
 > For a front-end website to place on GitHub for an Event Management System, you can create a user-friendly interface that allows event organizers to:
 
-Create Events: Users can input event details, including date, time, location, and event type.
+> Create Events: Users can input event details, including date, time, location, and event type.
 
 Registration and Ticketing: Implement a registration system where attendees can sign up for events and purchase tickets online.
 
