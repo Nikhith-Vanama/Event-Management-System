@@ -4,7 +4,7 @@
 
 > Create Events: Users can input event details, including date, time, location, and event type.
 
-Registration and Ticketing: Implement a registration system where attendees can sign up for events and purchase tickets online.
+> Registration and Ticketing: Implement a registration system where attendees can sign up for events and purchase tickets online.
 
 Event Listings: Display a list of upcoming events with search and filter options, making it easy for users to discover events of interest.
 
