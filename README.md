@@ -6,7 +6,7 @@
 
 > Registration and Ticketing: Implement a registration system where attendees can sign up for events and purchase tickets online.
 
-Event Listings: Display a list of upcoming events with search and filter options, making it easy for users to discover events of interest.
+> Event Listings: Display a list of upcoming events with search and filter options, making it easy for users to discover events of interest.
 
 Event Details: Provide detailed event pages with information about speakers, agenda, sponsors, and any other relevant details.
 
