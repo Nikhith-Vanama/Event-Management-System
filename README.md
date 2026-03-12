@@ -12,7 +12,7 @@
 
 > User Profiles: Allow users to create and manage their profiles, view their registered events, and access tickets.
 
-Interactive Maps: Include interactive maps to help attendees find event venues easily.
+> Interactive Maps: Include interactive maps to help attendees find event venues easily.
 
 Communication: Enable event organizers to send notifications and updates to registered attendees.
 
