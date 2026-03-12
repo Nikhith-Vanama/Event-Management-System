@@ -10,7 +10,7 @@
 
 > Event Details: Provide detailed event pages with information about speakers, agenda, sponsors, and any other relevant details.
 
-User Profiles: Allow users to create and manage their profiles, view their registered events, and access tickets.
+> User Profiles: Allow users to create and manage their profiles, view their registered events, and access tickets.
 
 Interactive Maps: Include interactive maps to help attendees find event venues easily.
 
