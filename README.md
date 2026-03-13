@@ -14,7 +14,7 @@
 
 > Interactive Maps: Include interactive maps to help attendees find event venues easily.
 
-Communication: Enable event organizers to send notifications and updates to registered attendees.
+> Communication: Enable event organizers to send notifications and updates to registered attendees.
 
 Feedback and Reviews: Implement a feedback and rating system to collect attendee reviews and improve future events.
 
