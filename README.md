@@ -16,7 +16,7 @@
 
 > Communication: Enable event organizers to send notifications and updates to registered attendees.
 
-Feedback and Reviews: Implement a feedback and rating system to collect attendee reviews and improve future events.
+> Feedback and Reviews: Implement a feedback and rating system to collect attendee reviews and improve future events.
 
 Responsive Design: Ensure the website is mobile-friendly and accessible on various devices.
 
