@@ -22,4 +22,4 @@
 
 > GitHub Repository: Host your front-end code on a GitHub repository, providing an open-source platform for collaboration and contributions from the developer community.
 
-Remember to design an intuitive and visually appealing user interface that enhances the user experience for both event organizers and attendees. Additionally, you may want to integrate your front-end with a back-end system or API for full event management functionality.
+> Remember to design an intuitive and visually appealing user interface that enhances the user experience for both event organizers and attendees. Additionally, you may want to integrate your front-end with a back-end system or API for full event management functionality.
