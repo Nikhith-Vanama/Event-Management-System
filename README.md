@@ -18,7 +18,7 @@
 
 > Feedback and Reviews: Implement a feedback and rating system to collect attendee reviews and improve future events.
 
-Responsive Design: Ensure the website is mobile-friendly and accessible on various devices.
+> Responsive Design: Ensure the website is mobile-friendly and accessible on various devices.
 
 GitHub Repository: Host your front-end code on a GitHub repository, providing an open-source platform for collaboration and contributions from the developer community.
 
