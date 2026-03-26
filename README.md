@@ -1,4 +1,4 @@
- Event-Management-System
+# Event-Management-System
 
 For a front-end website to place on GitHub for an Event Management System, you can create a user-friendly interface that allows event organizers to:
 
